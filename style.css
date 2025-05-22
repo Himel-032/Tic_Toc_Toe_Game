@@ -67,3 +67,14 @@ body{
 .hide{
     display: none;
 }
+
+footer {
+    
+    text-align: center;
+    padding: 3px;
+    background-color: green;
+    color: white;
+    margin-top: 60px;
+    margin-bottom: 0px
+
+}
